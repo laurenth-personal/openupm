@@ -1,0 +1,20 @@
+name: com.laurenth.delighting-tool
+aliases: []
+displayName: Unity Delighting Tool
+description: Tool used to remove lighting from textures coming from photogrammetry scans.
+repoUrl: https://github.com/laurenth-personal/DeLightingTool
+trackingMode: git
+parentRepoUrl: https://github.com/Unity-Technologies/DeLightingTool
+licenseSpdxId: MIT
+licenseName: MIT License
+image: >-
+  https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTY7XEiAEQwLiFrRqwaCeoduDOc-s7UhspcD-sXzykixvr4Fp8J4E14B88r&s=10
+topics:
+  - asset-management
+  - utilities
+hunter: laurenth-personal/
+gitTagPrefix: ''
+gitTagIgnore: ''
+minVersion: ''
+readme: master:Readme.md
+createdAt: 1794989660384
